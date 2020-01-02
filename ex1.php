@@ -1,2 +1,2 @@
-Hello Home fsdaj hdhakj  elgkklf hrllo;
+<?php echo "Hello World!" ?>
 I want to home.
