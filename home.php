@@ -1,2 +1,2 @@
 <?php echo 'How are you?'; ?>
-echo "Hello!"
+<h1>This is heading</h1>
